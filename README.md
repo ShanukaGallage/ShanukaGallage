@@ -63,14 +63,28 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
 |----------------------|----------------|-------------------|
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=c" width="40"/> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=bash" width="40"/> |
 
-## 📊 GitHub Statistics
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB STATISTICS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## 🎓 Statistics
 
 <div align="center">
-  
-  <!-- GitHub Streak Stats - Using demolab service (reliable) -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=ShanukaGallage&theme=onedark&hide_border=true" alt="GitHub Streak" />
-  
+
+<img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api?username=ShanukaGallage&show_icons=true&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&icon_color=00D4AA&text_color=F0F0FF&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats-three-omega-56.vercel.app/api/top-langs/?username=ShanukaGallage&layout=compact&hide_border=true&bg_color=0A0A0F&title_color=6C63FF&text_color=F0F0FF&langs_count=8" />
+
 </div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ShanukaGallage&theme=transparent&hide_border=true&background=0A0A0F&stroke=6C63FF&ring=6C63FF&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=F0F0FF&dates=8888AA" />
+
+</div>
+
+
 
 <div align="center" style="margin-top: 20px;">
   
@@ -91,6 +105,16 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
   
   <img src="https://img.shields.io/github/last-commit/ShanukaGallage/ShanukaGallage?label=Last%20Update&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6" alt="Last Update" />
   
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ACTIVITY GRAPH                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShanukaGallage&bg_color=0A0A0F&color=6C63FF&line=00D4AA&point=6C63FF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution+Activity)](https://github.com/ShanukaGallage/github-readme-activity-graph)
+
 </div>
 
 <div align="center">
