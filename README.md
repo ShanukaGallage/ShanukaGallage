@@ -3,13 +3,26 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Shanuka Gallage</h1>
-<h3 align="center">
-Cloud, SRE & DevOps Enthusiast 
-</h3>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED TYPING SVG                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=24&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+%7C+SRE+%7C+DevOps+Engineer;Open+Source+Enthusiast;)](https://git.io/typing-svg)
+
+</div>
+
 
 <p align="center">
-Node.js • Express.js • PostgreSQL • MongoDB • Redis • Docker • AWS • AI • Automation
+  <a href="https://linkedin.com/in/shanuka-gallage"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kaggle.com/shanukagallage"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:uni.shanuka@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://shanuka.me"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+ <!-- <a href="https://www.hackerrank.com/ShanukaGallage"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a> -->
 </p>
+
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      LIVE PROJECTS                            -->
@@ -19,31 +32,18 @@ Node.js • Express.js • PostgreSQL • MongoDB • Redis • Docker • AWS �
 
 | Project | What it does | Stack | Docs | Live |
 |---------|-------------|-------|------|------|
-| **Webhook Inspector** | Real-time debugging dashboard · HMAC verification (Stripe / GitHub / Shopify) · replay engine · WebSocket broadcast | FastAPI · Next.js · WebSocket · PostgreSQL | [/docs ↗](https://webhook-handler-production-99e2.up.railway.app/docs) | [Dashboard ↗](https://webhook-inspector-frontend.vercel.app) |
-| **Semantic Search Platform** | Vector embeddings · keyword · hybrid RRF search · three-column comparison · SSE upload progress | FastAPI · Next.js · Qdrant · PostgreSQL | [/docs ↗](https://semantic-search-frontend-j6yp.vercel.app/docs) | [App ↗](https://semantic-search-frontend-j6yp.vercel.app/search) |
-| **URL Shortener API** | JWT auth · custom aliases · link expiry · click tracking · auto-redirect | FastAPI · PostgreSQL · Railway | [/docs ↗](https://web-production-5bd50.up.railway.app/docs) | backend |
-| **Task Automation API** | Async background jobs · status polling · progress tracking · JWT auth | FastAPI · Railway | [/docs ↗](https://task-automation-api-i90w.onrender.com/docs) | backend |
-| **Portfolio** | Obsidian Scholar design system · GSAP scroll reveals · custom cursor · contact API · services page | Next.js · FastAPI · Framer Motion · GSAP | — | [fuadhaque.com ↗](https://fuadhaque.com) |
+| **Onits** | Project Management and Task Tracking system · Dynamic Kanban and Table layouts · Secure role-based access control · Real-time task updates via WebSockets | React · Socket.IO · Node.js · WebSocket · PostgreSQL · Docker · Docker Compose · GitHub Action · Azure | [/docs ↗](https://api.onits-backend.app) | [Dashboard ↗](https://www.onits.app) |
+| **Lanka_Courier_Management_System** | Parcel Operations · Shipment Tracking · User & Access Management · Branch Management | Java · JDBC · MySQL · Java Swing · Apache Maven | [/docs ↗] LocalHost| [App ↗] LocalHost) |
+| **Agent-Exam-Cram-The-Active-Recall-Tutor** | JWT auth ·  Multi AI agents · auto-redirect | Kaggle · Azure· | [/docs ↗](https://examcram.azurewebsites.net) | [ChatBot ↗](https://examcram.azurewebsites.net) |
+| **Portfolio** | Obsidian Scholar design system · GSAP scroll reveals · custom cursor · contact API · services page | Next.js · FastAPI · Framer Motion · GSAP | — | [shanuka.me ↗](https://shanuka.me) |
 
 Every project ships with: `docker-compose.yml` · `.env.example` · `/health` endpoint · Swagger UI · Loom walkthrough.
-<p align="center">
-  <a href="https://linkedin.com/in/muhammad adil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://kaggle.com/adil raxiq"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:adilraxiq64@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://adilportfolio-tawny.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/muhammad adil"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
-</p>
 
-- 🔭 Currently developing **OTC Medicine Self-Awareness** (Research Project) and **Blood Bank Management System** (Startup Project).  
-- 🧩 Exploring **AI/ML**, **Flutter Development**, and **Full-Stack Development** to build smart, real-world solutions.  
-- 🤝 Open to collaborating on Machine Learning projects and automation frameworks.  
-- 💬 Ask me about Django, Flask, PHP, Flutter, Machine Learning.  
-- 📫 Reach me at: adilraxiq64@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://github.com/muhammadadil0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a></td>
+    <td><a href="https://github.com/ShanukaGallage" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a></td>
     <td><a href="https://kaggle.com/adil raxiq" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a></td>
     <td><a href="https://linkedin.com/in/muhammad adil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a></td>
     <td><a href="https://fb.com/muhammad adil" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a></td>
@@ -89,12 +89,12 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
 
 <div align="center" style="margin-top: 10px;">
   
-  <img src="https://img.shields.io/github/last-commit/muhammadadil0/muhammadadil0?label=Last%20Update&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6" alt="Last Update" />
+  <img src="https://img.shields.io/github/last-commit/ShanukaGallage/ShanukaGallage?label=Last%20Update&style=for-the-badge&logo=github&logoColor=white&color=8b5cf6" alt="Last Update" />
   
 </div>
 
 <div align="center">
   
-  ![snake gif](https://github.com/muhammadadil0/muhammadadil0/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/ShanukaGallage/ShanukaGallage/blob/output/github-snake-dark.svg)
   
 </div>
