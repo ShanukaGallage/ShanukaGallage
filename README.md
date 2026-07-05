@@ -2,7 +2,7 @@
  <img src="./github_design_image.png" alt="GitHub Banner" width="100%" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Shanuka Gallage</h1>
+<h1 align="center">Hi, I'm Shanuka Gallage</h1>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    ANIMATED TYPING SVG                        -->
@@ -61,7 +61,7 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
 
 | ML / AI / Data Science | DevOps / Tools | System / Languages |
 |----------------------|----------------|-------------------|
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=c" width="40"/> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=bash" width="40"/> |
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> <img src="https://skillicons.dev/icons?i=scikitlearn" width="40"/> <img src="https://cdn.simpleicons.org/pandas" width="40"/> <img src="https://cdn.simpleicons.org/numpy" width="40"/> | <img src="https://skillicons.dev/icons?i=docker" width="40"/> <img src="https://skillicons.dev/icons?i=git" width="40"/> <img src="https://skillicons.dev/icons?i=postman" width="40"/> | <img src="https://skillicons.dev/icons?i=c" width="40"/> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=go" width="40"/> <img src="https://skillicons.dev/icons?i=java" width="40"/> <img src="https://skillicons.dev/icons?i=python" width="40"/> <img src="https://skillicons.dev/icons?i=linux" width="40"/> <img src="https://skillicons.dev/icons?i=bash" width="40"/> <img src="https://skillicons.dev/icons?i=windows" width="40"/>|
 
 ---
 
