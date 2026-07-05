@@ -95,6 +95,6 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
 
 <div align="center">
   
-  ![snake gif](https://github.com/ShanukaGallage/ShanukaGallage/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/ShanukaGallage/ShanukaGallage/blob/main/github-snake-dark.svg)
   
 </div>
