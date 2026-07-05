@@ -41,7 +41,7 @@ Every project ships with: `docker-compose.yml` · `.env.example` · `/health` en
 
 
 <h3 align="left">Connect with me:</h3>
-<table>
+<table style="margin: 0 auto;">
   <tr>
     <td><a href="https://github.com/ShanukaGallage" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a></td>
     <td><a href="https://kaggle.com/shanukagallage" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a></td>
